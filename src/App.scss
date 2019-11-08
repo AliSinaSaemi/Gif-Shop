@@ -1,0 +1,32 @@
+body {
+  background-color: #fff;
+}
+
+.gif-list {
+  img {
+    margin-top: 20px;
+    width: 100%;
+    margin: auto;
+    display: block;
+    height: 200px;
+  }
+  .gif-item {
+    margin-top: 20px;
+  }
+}
+
+
+.error {
+  p {
+    font-size: 40px;
+    color: red;
+    text-align: center;
+    margin-top: 50px;
+  }
+}
+
+.loading {
+  color: blue;
+  text-align: center;
+  margin-top: 20px;
+}
